@@ -11,7 +11,7 @@ Emnet har normalt **ingen forelesninger**. Arbeidet skjer primært gjennom **sel
 
 
 | Tema                        | Tidspunkt | Info |
-|----------------------------|----------:|------|
+|----------------------------|--------------|-------------|
 | Velkomstmøte               | TBA       | Litt informasjon om semesteret, forventninger og praktisk opplegg |
 | Midtveispresentasjon       | 26. Mars 8:15 - 12:00       | **Obligatorisk arbeidskrav** Avholdes på HHT |
 | Skriftlig utkast (obligatorisk) | TBA  | **Obligatorisk arbeidskrav**: skriftlig innlevering av utkast (godkjent/ikke godkjent) |
