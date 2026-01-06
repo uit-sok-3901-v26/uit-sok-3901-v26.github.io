@@ -1,20 +1,20 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+# Velkommen til emnet Mastergradsoppgave i samfunnsøkonomi med datavitenskap
 
+Velkommen til deres avsluttenden emne og oppgave til deres master. Dette emnet har ikke forelesninger eller liknede. 
 
-## Kursplan  
+## Emneplan
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+| Tema                     | Tidspunkt       | Info         |
+|--------------------------|-----------------|--------------|
+| Velkommst møte           | xx.Jan xx.15-xx.00  | Litt informasjon om semesteret             |    
+| Midtveispresantasjon     | 26. Mars 8:15 - 12:00   | HHT             |              
+| Obligatorisk innlevering | UB 132 Aud., UB  |             |              
+| Innlevering av master    | | |
+| Muntlig forsvar av oppgaven | | |
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
-
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
@@ -24,8 +24,8 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Eirik E. Heen](https://uit.no/ansatte/eirik.e.heen){:target="blank"} (fagansvarlig)
+- Veiledere
 
 
 
@@ -35,6 +35,8 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
+
+Emnet har ingen fast pensum. 
 
 ### Pensum til forelesningene
 
