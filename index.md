@@ -3,18 +3,21 @@
 
 # Velkommen til emnet Mastergradsoppgave i samfunnsøkonomi med datavitenskap
 
-Velkommen til deres avsluttenden emne og oppgave til deres master. Dette emnet har ikke forelesninger eller liknede. 
+Velkommen til masteroppgaven – deres avsluttende emne i masterprogrammet.  
+Emnet har normalt **ingen forelesninger**. Arbeidet skjer primært gjennom **selvstendig oppgavearbeid** og **veiledning**.
+
 
 ## Emneplan
 
-| Tema                     | Tidspunkt       | Info         |
-|--------------------------|-----------------|--------------|
-| Velkommst møte           | xx.Jan xx.15-xx.00  | Litt informasjon om semesteret             |    
-| Midtveispresantasjon     | 26. Mars 8:15 - 12:00   | HHT             |              
-| Obligatorisk innlevering | UB 132 Aud., UB  |             |              
-| Innlevering av master    | | |
-| Muntlig forsvar av oppgaven | | |
 
+| Tema                        | Tidspunkt | Info |
+|----------------------------|----------:|------|
+| Velkomstmøte               | TBA       | Litt informasjon om semesteret, forventninger og praktisk opplegg |
+| Midtveispresentasjon       | 26. Mars 8:15 - 12:00       | **Obligatorisk arbeidskrav** Avholdes på HHT |
+| Skriftlig utkast (obligatorisk) | TBA  | **Obligatorisk arbeidskrav**: skriftlig innlevering av utkast (godkjent/ikke godkjent) |
+| Avtalt veiledning (minimum 3)  | Løpende | **Obligatorisk arbeidskrav**: oppmøte/deltakelse i avtalt veiledning (godkjent/ikke godkjent) |
+| Innlevering av masteroppgave   | 15.05.2026 14:00      | Formell innlevering (dato oppdateres) |
+| Muntlig forsvar av oppgaven    | Blir gitt individuelt      | Muntlig eksamen (dato oppdateres) |
 
 
 ## Kursbeskrivelse 
