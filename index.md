@@ -12,6 +12,7 @@ Som følge av økt bruk av AI-verktøy i akademisk arbeid er det innført oppdat
 For generell veiledning om struktur, akademisk skriving og oppbygging av større arbeider anbefales det å se GitHub-siden til  
 [SOK-3024 – Prosjektoppgave](https://uit-sok-3024-h25.github.io/index.html).
 
+
 ## Emneplan
 
 | Tema                        | Tidspunkt              | Info      |
@@ -33,6 +34,7 @@ Veiledningen er begrenset til maksimalt 30 timer per oppgave. Dette inkluderer v
 
 Det er studentenes ansvar å ta initiativ til veiledning. Dette innebærer å kontakte veileder(e), foreslå møtetidspunkt og sende relevant materiale i forkant av møter. Masteroppgaven er et selvstendig arbeid, og evnen til å strukturere eget arbeid og be om hjelp på riktig tidspunkt er en viktig del av læringsutbyttet.
 
+Her er etiske rettningslinjer for veildeing [her](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fuit.no%2FContent%2F774486%2Fcache%3D1653643476000%2FOppdaterte%2520etiske%2520retningslinjer%2520for%2520veiledning%2520norsk.pdf&data=05%7C02%7Ceirik.e.heen%40uit.no%7Cd0176ba0a8eb4d9cca6508de4dd4b092%7C4e7f212d74db4563a57b8ae44ed05526%7C0%7C0%7C639033773045996182%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fIxJGbTDrrfkswJuq3JQiGENxf55zW3s24jlhuNsxNQ%3D&reserved=0).  
 
 ### Veilederen kan hjelpe med
 - avgrensning av tema og problemstilling
@@ -101,7 +103,7 @@ Emnet har ingen fast pensum. Dere forventes selv å finne og bruke relevant vite
 
 ## Innlevering av oppgave og muntlig forsvar
 
-Masteroppgaven vurderes med karakterskala A–F. Vurderingen har to elementer skriftlig oppgave og muntlig forsvar. 
+Masteroppgaven vurderes med karakterskala A–F. Denne består av to deler, den skriftlige oppgaven og det muntlige forsvaret. 
 
 ### Skriftlig oppgave
 Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. **Mer info kommer**
