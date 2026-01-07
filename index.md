@@ -9,12 +9,11 @@ Emnet har normalt **ingen forelesninger**. Arbeidet skjer i hovedsak gjennom sel
 
 Som følge av økt bruk av AI-verktøy i akademisk arbeid er det innført oppdaterte retningslinjer for masteroppgaven. Disse endringene innebærer blant annet krav om minimum tre veiledninger, en obligatorisk skriftlig innlevering underveis i semesteret, samt muntlig eksamen i form av forsvar av oppgaven. Formålet med dette er å sikre at arbeidet er studentenes eget, og at vurderingen gir et helhetlig bilde av både prosess og sluttprodukt.
 
-For generell veiledning om struktur, akademisk skriving og oppbygging av større arbeider anbefales det å se GitHub-siden til  
-[SOK-3024 – Forskningsmetode og – formidling](https://uit-sok-3024-h25.github.io/index.html).
+For generell veiledning om struktur, akademisk skriving og oppbygging av større arbeider anbefales det å se GitHub-siden til [SOK-3024 – Forskningsmetode og – formidling](https://uit-sok-3024-h25.github.io/index.html).
 
 Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_document_id=906284).
 
-Handelshøgskolens rettningslinjer for å skrive masteroppgave finner dere [her](https://universitetetitromso.sharepoint.com/:b:/r/sites/O365-O365-Handelshgskolen/Shared Documents/Styringsdokumenter/Retningslinjer, roller- og rutinebeskrivelser/25.05.12. Retningslinjer for masteroppgaver.pdf?csf=1&web=1&e=yyYmeJ&xsdata=MDV8MDJ8ZWlyaWsuZS5oZWVuQHVpdC5ub3wzZmNkZGNkZmMxNTI0NWY4Y2VkNzA4ZGU0ZGRjMDYwZnw0ZTdmMjEyZDc0ZGI0NTYzYTU3YjhhZTQ0ZWQwNTUyNnwwfDB8NjM5MDMzODA0NTQzNjY2NjI5fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&sdata=akp2eVJxMkt6MFhJQkJhMGtwQVI2VXZQZWxMWm1ia1B0clJMNFhIZlhsWT0%3d)
+Handelshøgskolens rettningslinjer for å skrive masteroppgave finner dere [her](https://universitetetitromso.sharepoint.com/:b:/r/sites/O365-O365-Handelshgskolen/Shared Documents/Styringsdokumenter/Retningslinjer, roller- og rutinebeskrivelser/25.05.12. Retningslinjer for masteroppgaver.pdf?csf=1&web=1&e=yyYmeJ&xsdata=MDV8MDJ8ZWlyaWsuZS5oZWVuQHVpdC5ub3wzZmNkZGNkZmMxNTI0NWY4Y2VkNzA4ZGU0ZGRjMDYwZnw0ZTdmMjEyZDc0ZGI0NTYzYTU3YjhhZTQ0ZWQwNTUyNnwwfDB8NjM5MDMzODA0NTQzNjY2NjI5fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKRmJYQjBlVTFoY0draU9uUnlkV1VzSWxZaU9pSXdMakF1TURBd01DSXNJbEFpT2lKWGFXNHpNaUlzSWtGT0lqb2lUV0ZwYkNJc0lsZFVJam95ZlE9PXwwfHx8&sdata=akp2eVJxMkt6MFhJQkJhMGtwQVI2VXZQZWxMWm1ia1B0clJMNFhIZlhsWT0%3d).
 
 ## Emneplan
 
