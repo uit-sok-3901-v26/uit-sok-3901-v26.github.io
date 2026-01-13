@@ -103,7 +103,8 @@ Emnet har ingen fast pensum. Dere forventes selv å finne og bruke relevant vite
 
 ## Innlevering av oppgave og muntlig forsvar
 
-Masteroppgaven vurderes med karakterskala A–F. Denne består av to deler, den skriftlige oppgaven og det muntlige forsvaret. 
+Masteroppgaven vurderes etter karakterskala A–F og består av et skriftlig arbeid og et muntlig forsvar.
+Vurderingen er helhetlig og tar utgangspunkt i begge deler.
 
 ### Skriftlig oppgave
 Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. **Mer info kommer**
@@ -113,7 +114,18 @@ Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. **Mer info kom
 Det muntlige forsvaret består av:
 - en kort presentasjon av oppgaven 
 - deretter individuell utspørring/diskusjon med intern og ekstern sensor.
+Formålet med det muntlige forsvaret er å:
+- vurdere studentens forståelse av egne valg og løsninger
+- avklare faglige og metodiske spørsmål
+- dokumentere selvstendig faglig eierskap til arbeidet
+I en tid med økt bruk av KI-verktøy fungerer det muntlige forsvaret også som en kvalitetssikring og et kvalitetsstempel på at masteroppgaven representerer studentens faktiske kompetanse og forståelse.
 
 ### Hvordan settes karakteren?
-Karakteren baseres på en **samlet vurdering av skriftlig arbeid og muntlig forsvar**.
+Karakteren settes ved det muntlige forsvaret og baseres på en samlet faglig vurdering av:
+- det skriftlige arbeidet
+- studentens evne til å forklare, begrunne og reflektere over oppgaven muntlig
+
+Selv om karakteren formelt settes ved muntlig forsvar, er dette ikke en separat vurdering av muntlig prestasjon, men en helhetlig vurdering av masterarbeidet som helhet.
+
+Et godt skriftlig arbeid kan ikke kompenseres av et godt muntlig forsvar alene, og omvendt.
 
