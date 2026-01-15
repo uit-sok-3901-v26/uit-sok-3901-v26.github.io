@@ -36,7 +36,7 @@ Det er studentenes ansvar å ta initiativ til veiledning. Dette innebærer å ko
 
 Her er etiske rettningslinjer for veildeing [her](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fuit.no%2FContent%2F774486%2Fcache%3D1653643476000%2FOppdaterte%2520etiske%2520retningslinjer%2520for%2520veiledning%2520norsk.pdf&data=05%7C02%7Ceirik.e.heen%40uit.no%7Cd0176ba0a8eb4d9cca6508de4dd4b092%7C4e7f212d74db4563a57b8ae44ed05526%7C0%7C0%7C639033773045996182%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fIxJGbTDrrfkswJuq3JQiGENxf55zW3s24jlhuNsxNQ%3D&reserved=0).  
 
-### Veilederen kan hjelpe med
+### Veilederen kan hjelpe med:
 - avgrensning av tema og problemstilling
 - forslag til relevant litteratur
 - økonomisk teori og modeller
@@ -47,13 +47,15 @@ Her er etiske rettningslinjer for veildeing [her](https://eur01.safelinks.protec
   - empiriske
   - metodiske
   - språklige og strukturelle
+ 
+### Veilederen har ikke ansvar for:
+- følge opp fremdrift uten at dere selv tar initiativ
+- sette eller håndheve personlige frister for dere
 
 ### Veilederen skal **ikke**:
 - skrive tekst for dere
 - fungere som korrekturleser
 - gjøre analyser på deres vegne
-- følge opp fremdrift uten at dere selv tar initiativ
-- sette eller håndheve personlige frister for dere
 
 
 ## Obligatoriske krav
