@@ -22,7 +22,8 @@ Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_docume
 | Skriftlig utkast           | 15. april              | **Obligatorisk arbeidskrav**. Innlevering av utkast |
 | Avtalt veiledning          | Innen 1. mai           | **Obligatorisk arbeidskrav**. Minimum tre veiledninger |
 | Masteroppgaveinnlevering | 15. mai kl. 14:00      |  |
-| Muntlig forsvar | Fastsettes individuelt |  |
+| Avslutningsseremonien  | 2. juni      |  |
+| Muntlig forsvar | Fastsettes individuelt | Uklar dato, mellom 1. juni til 19 juni  |
 
 
 
