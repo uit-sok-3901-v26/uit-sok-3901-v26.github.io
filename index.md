@@ -31,7 +31,7 @@ Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_docume
 
 Hver oppgave tildeles én hovedveileder og én bi-veileder. Hovedveileder er studentenes primære kontaktperson og har hovedansvaret for den faglige oppfølgingen gjennom semesteret. Bi-veileder fungerer som en ekstra faglig sparringpartner, både for studenter og hovedveileder. Bi-veileder vil normalt ikke delta på møter med hovedveileder, men kan inviteres ved behov. Bi-veileder bør inviteres til første møte med hovedveilederen. 
 
-Veiledningen er begrenset til maksimalt 30 timer per oppgave. Dette inkluderer veiledningsmøter, gjennomlesning av tekst og tilbakemeldinger på utkast. Timene inkluderer arbeid utført av bi-veileder. Samtidig er dette en ressurs studentene har krav på, og som bør brukes aktivt og planmessig. Det er et eksplisitt krav i emnet at studentene gjennomfører minst tre veiledninger i løpet av semesteret.
+Veiledningen er begrenset til maksimalt 40 timer per oppgave. Dette inkluderer veiledningsmøter, gjennomlesning av tekst og tilbakemeldinger på utkast. Timene inkluderer arbeid utført av bi-veileder. Samtidig er dette en ressurs studentene har krav på, og som bør brukes aktivt og planmessig. Det er et eksplisitt krav i emnet at studentene gjennomfører minst tre veiledninger i løpet av semesteret.
 
 Det er studentenes ansvar å ta initiativ til veiledning. Dette innebærer å kontakte veileder(e), foreslå møtetidspunkt og sende relevant materiale i forkant av møter. Masteroppgaven er et selvstendig arbeid, og evnen til å strukturere eget arbeid og be om hjelp på riktig tidspunkt er en viktig del av læringsutbyttet.
 
