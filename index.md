@@ -19,7 +19,7 @@ Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_docume
 |----------------------------|------------------------|------------|
 | Velkomstmøte               | 14. januar             | Gjennomgang av semesteret, forventninger og praktisk opplegg |
 | Midtveispresentasjon       | 26. mars kl. 08:15–12:00 | **Obligatorisk arbeidskrav**. Avholdes på HHT |
-| Skriftlig utkast           | 15. april              | **Obligatorisk arbeidskrav**. Innlevering av utkast |
+| Skriftlig utkast           | 19. april 23:59             | **Obligatorisk arbeidskrav**. Innlevering av utkast |
 | Avtalt veiledning          | Innen 1. mai           | **Obligatorisk arbeidskrav**. Minimum tre veiledninger |
 | Masteroppgaveinnlevering | 15. mai kl. 14:00      |  |
 | Avslutningsseremonien  | 2. juni      |  |
