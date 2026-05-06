@@ -115,7 +115,7 @@ Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. **Mer info kom
 
 ### Muntlig forsvar (kort forklart)
 Det muntlige forsvaret består av:
-- en kort presentasjon av oppgaven 
+- en kort presentasjon av oppgaven (ca 15 minuter)
 - deretter individuell utspørring/diskusjon med intern og ekstern sensor.
 Formålet med det muntlige forsvaret er å:
 - vurdere studentens forståelse av egne valg og løsninger
