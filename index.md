@@ -128,6 +128,16 @@ Det er ingen fast grense for antall slides i presentasjonen. Studentene forvente
 Sensorene kan stoppe presentasjonen dersom tiden overskrides.
 
 En god presentasjon bør:
+- forklare hvorfor problemstillingen er viktig
+- tydelig presentere problemstillingen
+- forklare hvordan dere har valgt å undersøke problemet
+- oppsummere de viktigste funnene i oppgaven
+- vise at dere forstår egne valg, resultater og konklusjoner
+
+Dere bør altså kort forklare metode og analyseopplegg, men uten å bruke for mye tid på svært tekniske detaljer. Fokus bør være på hvorfor dere valgte metoden, hva dere gjorde, og hva dere fant.
+
+
+En god presentasjon bør:
 - tydelig presentere problemstillingen
 - forklare hvorfor temaet er viktig
 - oppsummere de viktigste funnene i oppgaven
