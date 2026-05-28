@@ -21,6 +21,7 @@ Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_docume
 | Midtveispresentasjon       | 26. mars kl. 08:15–12:00 | **Obligatorisk arbeidskrav**. Avholdes på HHT |
 | Skriftlig utkast           | 19. april 23:59             | **Obligatorisk arbeidskrav**. Innlevering av utkast |
 | Avtalt veiledning          | Innen 1. mai           | **Obligatorisk arbeidskrav**. Minimum tre veiledninger |
+| Godkjenning av forside          | 5. mai           | Forside sendes til Heidi Hemmingsen for godkjenning |
 | Masteroppgaveinnlevering | 15. mai kl. 14:00      |  |
 | Avslutningsseremonien  | 2. juni      |  |
 | Muntlig forsvar | Fastsettes individuelt | Uklar dato, mellom 1. juni til 19 juni  |
@@ -110,17 +111,29 @@ Masteroppgaven vurderes etter karakterskala A–F og består av et skriftlig arb
 Vurderingen er helhetlig og tar utgangspunkt i begge deler.
 
 ### Skriftlig oppgave
-Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. **Mer info kommer**
+Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. Oppgaven skal leveres inn i WiseFlow.
 
 
-### Muntlig forsvar (kort forklart)
+### Muntlig forsvar 
 Det muntlige forsvaret består av:
 - en kort presentasjon av oppgaven (ca 15 minuter)
-- deretter individuell utspørring/diskusjon med intern og ekstern sensor.
-Formålet med det muntlige forsvaret er å:
-- vurdere studentens forståelse av egne valg og løsninger
-- avklare faglige og metodiske spørsmål
-- dokumentere selvstendig faglig eierskap til arbeidet
+- deretter individuell utspørring/diskusjon med intern og ekstern sensor (ca. 45 minutter per student)
+
+Studenter som har skrevet masteroppgaven alene holder presentasjonen alene.
+
+Studenter som har skrevet masteroppgaven sammen holder én felles presentasjon på ca. 15 minutter. Den påfølgende utspørringen gjennomføres individuelt for hver kandidat.
+
+Det er ingen fast grense for antall slides i presentasjonen. Studentene forventes selv å vurdere hvordan presentasjonen best struktureres innenfor den tilgjengelige tiden. Som en generell tommelfingerregel kan det være lurt å beregne omtrent 1–2 minutter per slide. For de fleste vil derfor en presentasjon på rundt 5–10 slides være passende.
+
+Sensorene kan stoppe presentasjonen dersom tiden overskrides.
+
+En god presentasjon bør:
+- tydelig presentere problemstillingen
+- forklare hvorfor temaet er viktig
+- oppsummere de viktigste funnene i oppgaven
+
+Det er ikke nødvendig å bruke mye tid på svært tekniske eller detaljerte metodeforklaringer. Det holder normalt å kort forklare hvilken metode som er brukt og eventuelt si litt om modellen eller analysestrategien.
+
 I en tid med økt bruk av KI-verktøy fungerer det muntlige forsvaret også som en kvalitetssikring og et kvalitetsstempel på at masteroppgaven representerer studentens faktiske kompetanse og forståelse.
 
 ### Hvordan settes karakteren?
